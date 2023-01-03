@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Calculator-with-digital-clock/static/css/main.84c5b2ca.css",
+    "main.js": "/Calculator-with-digital-clock/static/js/main.4d0169f6.js",
+    "static/js/787.34115356.chunk.js": "/Calculator-with-digital-clock/static/js/787.34115356.chunk.js",
+    "index.html": "/Calculator-with-digital-clock/index.html",
+    "main.84c5b2ca.css.map": "/Calculator-with-digital-clock/static/css/main.84c5b2ca.css.map",
+    "main.4d0169f6.js.map": "/Calculator-with-digital-clock/static/js/main.4d0169f6.js.map",
+    "787.34115356.chunk.js.map": "/Calculator-with-digital-clock/static/js/787.34115356.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84c5b2ca.css",
+    "static/js/main.4d0169f6.js"
+  ]
+}
